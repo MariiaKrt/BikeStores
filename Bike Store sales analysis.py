@@ -434,6 +434,6 @@ plt.ylabel('Product price')
 plt.show()
 
 
-# #### The mean is higher in most categories for 2017, and the most expensive products in each category also cost more in 2017. There is a new category with the highest product prices in 2017.
+# #### The median is higher in most categories for 2017, and the most expensive products in each category also cost more in 2017. There is a new category with the highest product prices in 2017.
 
 # #### With consistent resources  - the same sales team size, the same discount policy, and almost the same order volume— the Bike store grew revenue by selling higher-priced products and introducing new more expensive categories.
